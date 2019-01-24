@@ -1,4 +1,4 @@
-#INTRO TO MAX MSP
+# INTRO TO MAX MSP #
 
 ## Links  ##
 
